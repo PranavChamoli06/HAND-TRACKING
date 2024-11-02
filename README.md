@@ -22,20 +22,16 @@ Install OpenCV and MediaPipe, along with other dependencies:
 pip install opencv-python mediapipe
 ```
 
-#### Additional Libraries (if necessary)
+Additional Libraries (if necessary)
 You may need `numpy` and `matplotlib` for visualization and additional data handling:
 ```bash
 pip install numpy matplotlib
 ```
 
-### Step 4: Run the Project
-Execute the main script to start hand tracking:
-```bash
-python hand_tracking.py
-```
-
 USUAGE:
+
 Once the application is running, it will access your webcam feed and begin tracking your hand. You can adjust parameters in the code to customize tracking sensitivity, hand size, and gesture detection based on your requirements.
 
 LICENSE:
-This project is licensed under the terms of the [MIT License](LICENSE). 
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
