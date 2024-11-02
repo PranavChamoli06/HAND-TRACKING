@@ -3,7 +3,7 @@
 This project is a computer vision application that leverages machine learning to detect and track hand movements in real-time. It utilizes a hand-tracking algorithm to identify hand landmarks and gestures, making it ideal for applications such as gesture recognition, sign language interpretation, virtual controls, and interactive games.
 
 FEATURES:
-- **Real-time hand detection and tracking**
+- Real-time hand detection and tracking
 - Recognition of hand landmarks (e.g., fingers, palm, wrist)
 - Basic gesture recognition (e.g., open hand, fist)
 - Adjustable parameters to accommodate different hand sizes and environments
